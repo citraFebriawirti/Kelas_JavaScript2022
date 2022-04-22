@@ -1,0 +1,43 @@
+======Pertemuan 1=====
+1. Perkenalan JS
+2. Tools Js
+3. Extension JS
+
+=====Pertemuan 2====
+1. Steatement dan Expression
+2. Komentar
+3. Variabel
+
+======Pertemuan 3=====
+1. Tipe Data
+2. Operator
+
+====Pertemuan 4===
+1. If/Else Steatement
+2. Switch casa Steatement(Opsional)
+
+====pertemuan 5===
+1. Perulangan
+
+===pertemuan 6===
+1. Object
+2. Array
+
+
+====Pertemuan 7====
+1. Function
+
+
+===pertemuan 8==
+1. BOM
+2. Alert()
+3. Prompt()
+
+=== Pertemuan 9===
+1. Perkenalan React dan Node js
+
+*Pertemuan 10,11,12
+1. Latihan 
+2. Tugas Kelompok
+3. Kuis
+4. UAS
