@@ -9,4 +9,8 @@ Dalam kelas ini kita hanya belajar 6 tipe data dasar dalam JavaScript.
   4. boolean untuk true/ false.
   6. undefined untuk nilai yang belum ditetapkan – tipe mandiri yang memiliki nilai tunggal undefined.
 <hr>
-3. Operator
+
+2. Operator<br>
+   a. Assigment Operator<br>
+   b. Comparison Operator<br>
+   c. Logical Operator<br>
