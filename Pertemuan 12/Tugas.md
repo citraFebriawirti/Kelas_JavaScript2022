@@ -14,8 +14,9 @@ menggunakan
 nilai Y  data menggunakan prompt
 untuk menampilkan hasilnya menggunkan  alert !
 
-<!-- Catatan
+<hr>
+**Catatan
 1. Dikumpulkan hari Jum'at/3 Mei 2022 jam 23.59
 2. Dikirimkan melalui Rar atau Github
 3. Jika Tidak mengumpulkan hari Jum'at, maka harus presentasi di depan kelas
- -->
+ 
